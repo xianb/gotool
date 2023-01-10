@@ -1,4 +1,4 @@
-module gotool
+module github.com/xianb/gotool
 
 go 1.18
 
